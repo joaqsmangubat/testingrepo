@@ -1,2 +1,2 @@
 # testingrepo
-test repository for ibm professional certificate
+test repository for ibm data science professional certificate
